@@ -1,0 +1,7 @@
+Designator,Comment,Quantity,Description,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"C1","100nF","1","CAP 100nF 16V ±10% 0402 (1005 Metric) Thickness 0.6mm SMD","","","","","","",""
+"C2","10u","1","Capacitor, 10u, X5R, ±20%, 6.3V","","","","Digi-Key","490-10474-1-ND","",""
+"C3, C4","1uF","2","CAP 1uF 16V ±10% 0402 (1005 Metric) Thickness 0.6mm SMD","","","","","","",""
+"PPG","MAXM86161EFD+","1","Integrated Circuit","","","","","","",""
+"R1","4.7K 1% 0402(1005)","1","4.7K 0.063W 1% 0402 (1005 Metric)  SMD","","","","","","",""

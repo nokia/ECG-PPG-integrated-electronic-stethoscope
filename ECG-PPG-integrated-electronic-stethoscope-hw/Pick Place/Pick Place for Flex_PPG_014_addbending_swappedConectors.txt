@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\hongweil\Documents\Altium\Projects\Patchkeeper\Patchkeeper_V2.0\Flex_PPG\Project Outputs for Flex_PPG\RPL_Pick Place\Pick Place for Flex_PPG_014_addbending_swappedConectors.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/10/21
+Time:       12:49
+Revision:   0b62a78c9063cb3e7d21e0163cf81c84f3de98bc
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer       Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                 
+C1         100nF                TopLayer    CAPC0402(1005)60_L    28.0952      15.5708      90       "CAP 100nF 16V ±10% 0402 (1005 Metric) Thickness 0.6mm SMD" 
+C2         10u                  TopLayer    CAPC0603(1608)100_L   28.5251      18.0671      270      "Capacitor, 10u, X5R, ±20%, 6.3V"                           
+C3         1uF                  TopLayer    CAPC0402(1005)60_L    29.0601      15.5708      90       "CAP 1uF 16V ±10% 0402 (1005 Metric) Thickness 0.6mm SMD"   
+PPG        MAXM86161EFD+        BottomLayer MAXM86161EFD          29.1451      17.0671      0        "Integrated Circuit"                                        
+C4         1uF                  TopLayer    CAPC0402(1005)60_L    30.0093      18.2671      270      "CAP 1uF 16V ±10% 0402 (1005 Metric) Thickness 0.6mm SMD"   
+R1         "4.7K 1% 0402(1005)" TopLayer    RESC1005X40X25LL05T05 30.1423      15.5708      90       "4.7K 0.063W 1% 0402 (1005 Metric)  SMD"                    

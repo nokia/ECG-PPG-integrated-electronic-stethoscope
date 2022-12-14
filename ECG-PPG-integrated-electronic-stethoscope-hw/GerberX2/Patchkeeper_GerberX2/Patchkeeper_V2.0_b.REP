@@ -1,0 +1,758 @@
+*************************************************************
+FileName = Patchkeeper_V2.0_b.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Patchkeeper_V2.0_b_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : Patchkeeper_V2.0_b_Copper_Signal_1.gbr
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D55
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2
+      File : Patchkeeper_V2.0_b_Copper_Signal_2.gbr
+
+    Adding Layer      : Mid-Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D56
+    D57
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Patchkeeper_V2.0_b_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D18
+    D27
+    D29
+    D30
+    D31
+    D33
+    D37
+    D55
+    D56
+    D57
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Patchkeeper_V2.0_b_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D27
+    D29
+    D30
+    D31
+    D33
+    D37
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Patchkeeper_V2.0_b_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Patchkeeper_V2.0_b_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Patchkeeper_V2.0_b_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D27
+    D29
+    D30
+    D31
+    D33
+    D37
+    D66
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Patchkeeper_V2.0_b_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D29
+    D30
+    D31
+    D33
+    D37
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Patchkeeper_V2.0_b_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D96
+    D97
+    D98
+    D99
+    D101
+    D103
+    D104
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Patchkeeper_V2.0_b_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D47
+    D48
+    D50
+    D51
+    D52
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Patchkeeper_V2.0_b_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D76
+    D132
+    D133
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Patchkeeper_V2.0_b_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Patchkeeper_V2.0_b_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D104
+    D112
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Patchkeeper_V2.0_b_Mechanical_13.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Patchkeeper_V2.0_b_Mechanical_14.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D96
+    D101
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : Patchkeeper_V2.0_b_Mechanical_8.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+    D96
+    D97
+    D101
+    D103
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Patchkeeper_V2.0_b_Mechanical_16.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D113
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Patchkeeper_V2.0_b_Mechanical_7.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D96
+    D98
+    D101
+    D103
+    D111
+    D134
+    D135
+    D136
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Patchkeeper_V2.0_b_Mechanical_15.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D101
+    D113
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 32767
+      File : Patchkeeper_V2.0_b_Mechanical_32767.gbr
+
+    Adding Layer      : Mechanical 32767
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Patchkeeper_V2.0_b_Profile.gbr
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Patchkeeper_V2.0_b_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D140
+    D141
+    D142
+    D143
+    D144
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Patchkeeper_V2.0_b_PTH_Drill.gbr
+
+
+Used DCodes :
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Patchkeeper_V2.0_b_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D103
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Patchkeeper_V2.0_b_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D103
+*************************************************************
+

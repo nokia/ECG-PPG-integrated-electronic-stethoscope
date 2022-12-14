@@ -1,0 +1,342 @@
+*************************************************************
+FileName = Flex_PPG_014_addbending_swappedConectors.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Flex_PPG_014_addbending_swappedConectors_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Flex_PPG_014_addbending_swappedConectors_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Flex_PPG_014_addbending_swappedConectors_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Flex_PPG_014_addbending_swappedConectors_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : Flex_PPG_014_addbending_swappedConectors_Copper_Signal_0.gbr
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Flex_PPG_014_addbending_swappedConectors_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Flex_PPG_014_addbending_swappedConectors_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Flex_PPG_014_addbending_swappedConectors_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Flex_PPG_014_addbending_swappedConectors_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D19
+    D20
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Flex_PPG_014_addbending_swappedConectors_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Flex_PPG_014_addbending_swappedConectors_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Flex_PPG_014_addbending_swappedConectors_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_4.gbr
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_13.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_14.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_8.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_16.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_7.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_15.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 32767
+      File : Flex_PPG_014_addbending_swappedConectors_Mechanical_32767.gbr
+
+    Adding Layer      : Mechanical 32767
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Flex_PPG_014_addbending_swappedConectors_Profile.gbr
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Flex_PPG_014_addbending_swappedConectors_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Flex_PPG_014_addbending_swappedConectors_PTH_Drill.gbr
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Flex_PPG_014_addbending_swappedConectors_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Flex_PPG_014_addbending_swappedConectors_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D32
+*************************************************************
+

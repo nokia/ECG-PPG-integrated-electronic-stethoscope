@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Flex_PPG_014_addbending_swappedConectors.GBR   27/10/2021  12:49:22
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Mid-Layer 1                             
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 4                            
+.gbr                Top 3D Body                             
+.gbr                Bottom 3D Body                          
+.gbr                Mechanical 5                            
+.gbr                Bottom Component Outline                
+.gbr                Mechanical 1                            
+.gbr                Bottom Assembly                         
+.gbr                Top Component Outline                   
+.gbr                Top Assembly                            
+.gbr                Mechanical 32767                        
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

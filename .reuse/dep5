@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ECG-PPG-integrated-electronic-stethoscope
+Upstream-Contact: Hongwei Li <hongwei.3.li@nokia-bell-labs.com>
+Source: https://github.com/nokia/ECG-PPG-integrated-electronic-stethoscope
+
+Files: *
+Copyright: 2022 Nokia
+License: BSD-3-Clause

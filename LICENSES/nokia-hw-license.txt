@@ -1,0 +1,59 @@
+Hardware License for Research Purposes
+This license is based on the Open Compute Project Hardware License (Permissive), version 1.0.
+This license covers the use, copying, modification and distribution of hardware designs, and the manufacture and use of
+devices based on such designs, for research purposes only.
+
+1. Definitions.
+  a. “Device” means any device based on the Complete Production Files.
+  b. “Complete Production Files” means all of the following, in a form sufficient for a person of ordinary skill to
+     manufacture or modify the design of a Device:
+  c. materials detailing electrical design and composition, including
+    i.   a full CAD-generated system schematic;
+    ii.  a full CAD-generated system printed circuit board (PCB) layout, including constraints and stack-up definition;
+    iii. a full system component bill of materials in a text format (tab-delimited or comma-delimited), including
+         reference designators (e.g., part numbers on the board), manufacturers, manufacturer part numbers, and
+         quantities;
+    iv.  manufacturing files, including
+      1. printed circuit board manufacturing files in RS-274x or other open format,
+      2. stack-up information in text format, or as an art layer in the RS-274x files, or in a separate file, and
+      3. component pick-and-place coordinates in text format and test point coordinates and information in text format;
+    v. a schematic board component placement map;
+  d. materials detailing mechanical design and structure, including a three-dimensional CAD-generated drawing of the top
+     level assembly, housing, and all parts and subparts in a CAD neutral format such as STEP or IGES;
+  e. “Improvements” means (a) any derivative work of any Complete Production Files, and (b) any modification,
+     extension, or improvement of the functionality described in the Complete Production Files that You use to design or
+     manufacture Your Device.
+  f. “License” means the terms and conditions for use, reproduction, and distribution set forth in this document.
+  g. “Licensor” means Nokia Solutions and Networks Oy, a corporation validly organized and existing under the laws of
+     Finland, having its principal place of business at Karakaari 7, FI-02610, Espoo, Finland, business identity code
+     2058430-6.
+  h. “You” means an individual or legal entity exercising the permissions granted by this License.
+2. Scope of the License. This License applies to the Complete Production Files available under the terms of this
+   License.
+3. Grant of Copyright License. Subject to the restriction in section 4 and subject to compliance with the terms of this
+   License, the Licensor hereby grants to You a worldwide, non-exclusive copyright license to use, reproduce, publicly
+   display, and publicly perform the Complete Production Files, and to modify and prepare derivative works of the
+   Complete Production Files.
+4. Restrictions. The license granted in section 3 above is expressly made subject to and limited by the following
+   restriction: You may not exercise any of the rights granted to You in section 3 above in any manner that is primarily
+   intended for or directed toward commercial advantage or private monetary compensation.
+5. Distribution of Devices. You may, but are not required to, make your Improvements available under this License. If
+   you choose to make your Improvements available under this License, You must include with each such Improvement (1)
+   full and complete copies of all Complete Production Files, and (2) a copy of this License.
+6. Limitations. This License does not grant permission to use the trade names, trademarks, service marks, or product
+   names of any Licensor. Except for the rights expressly granted in this License, no rights are granted under this
+   License by estoppel, implication, or otherwise.
+7. DISCLAIMER OF WARRANTY. THE COMPLETE PRODUCTION FILES ARE PROVIDED HEREUNDER ON AN “AS IS” BASIS, WITHOUT WARRANTIES
+   OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+   TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR
+   DETERMINING THE APPROPRIATENESS OF USING THE COMPLETE PRODUCTION FILES AND ASSUME ANY RISKS ASSOCIATED WITH YOUR
+   EXERCISE OF PERMISSIONS UNDER THIS LICENSE.
+8. LIMITATION OF LIABILITY. IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), CONTRACT, OR
+   OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW (SUCH AS DELIBERATE AND GROSSLY NEGLIGENT ACTS) OR AGREED TO IN WRITING,
+   SHALL ANY LICENSOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR
+   CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE OR OUT OF THE USE OR INABILITY TO USE THE
+   COMPLETE PRODUCTION FILES (INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE
+   OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES), EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES.
+9. Termination. The rights granted to You under this License will terminate automatically without notice if You fail to
+   comply with any of its terms or conditions. 

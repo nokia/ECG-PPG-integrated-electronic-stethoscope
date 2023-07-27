@@ -19,3 +19,4 @@ __pycache__
 *.pyz
 *.egg-info/
 *.log
+patchkeeper_private.key
